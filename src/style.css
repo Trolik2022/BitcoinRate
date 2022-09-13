@@ -1,0 +1,11 @@
+h1 {
+  background: transparent; /* Make it white if you need */
+  color: #084219;
+  padding: 0 24px;
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+}
